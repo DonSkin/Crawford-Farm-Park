@@ -1,0 +1,27 @@
+BREAKFAST:
+Full Scottish Breakfast: £8.50
+Vegetarian Breakfast: £7.50
+Porridge with Honey and Fruit: £5.50
+Toast with Butter and Jam: £2.50
+
+LUNCH: 
+Homemade Soup of the Day with Bread: £4.50
+Ploughman's Lunch: £7.50
+Scottish Beef Burger with Chips: £9.50
+Veggie Burger with Chips: £8.50
+Steak Pie with Mashes Potatoes: £9.50
+
+DESSERT:
+Homemade Apple Pie with Ice Cream: £5.50
+Chocolate Brownie with Whipped Cream: £4.50
+Fruit Salad with Yogurt and Honey: £3.50
+Scottish Cheese Plate with Crackers: £7.50
+
+DRINKS:
+Coffee: £2.50
+Tea: £2.00
+Hot Chocolate: £3.00
+Soft Drinks: £2.50
+Bottled Water: £1.50
+
+Please note that prices are subject to change and that our many may vary depending on seasonal availability of ingredients.
